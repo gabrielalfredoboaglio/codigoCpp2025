@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignorar carpetas de build de Qt y Clangd
+build-*/
+*.qtc_clangd/
